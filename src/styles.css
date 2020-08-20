@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+/* bootstrap css */
+@import "~bootstrap/dist/css/bootstrap.css"
+
+/* h1{
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration-line: underline;
+} */
